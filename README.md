@@ -3,14 +3,15 @@
 
 
 ### :moyai: About me:
+#### I am passionate about programming and web development, I like to develop fullstack applications such as E-Commerce or SaaS... I am constantly learning and evolving to improve my technical and soft skills. :rocket:
 
 - I'm **web developer**
-- Founder of [QuicklyDocs.com](https://quicklydocs.com)
+- Founder of [QuicklyDocs.com](https://quicklydocs.com) - A tool to create and edit documents with AI
 
 # :muscle: My Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,9 +27,10 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yaiir.dev/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-gonz%C3%A1lez-623706161/)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) : `@yaiir.dev`
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dylanGonzalez09)
 
-- My AI project: :link: [QuicklyDocs](https://quicklydocs.com)
+- My AI project: :link: [QuicklyDocs.com](https://quicklydocs.com)
 
 
 ---
