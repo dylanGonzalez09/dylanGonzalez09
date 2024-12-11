@@ -5,8 +5,7 @@
 ### :moyai: About me:
 #### I am passionate about programming and web development, I like to develop fullstack applications such as E-Commerce or SaaS... I am constantly learning and evolving to improve my technical and soft skills. :rocket:
 
-- I'm **web developer**
-- Founder of [QuicklyDocs.com](https://quicklydocs.com) - A tool to create and edit documents with AI
+- I'm **FullStack Developer**
 
 # :muscle: My Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,7 +28,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-gonz%C3%A1lez-623706161/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dylanGonzalez09)
 
-- My AI project: :link: [QuicklyDocs.com](https://quicklydocs.com)
+- My Entrepreneurship Project :link: [digitalemprende.com](https://digitalemprende.com)
+- My AI project: :link: [quicklydocs.com](https://quicklydocs.com)
+
 
 
 ---
